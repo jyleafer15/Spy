@@ -49,25 +49,24 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
- 
-.f-icon-email:before { content: '\65'; } /* 'e' */
-.f-icon-itunes:before { content: '\75'; } /* 'u' */
-.f-icon-pinboard:before { content: '\6b'; } /* 'k' */
-.f-icon-tumblr:before { content: '\54'; } /* 'T' */
-.f-icon-home:before { content: '\48'; } /* 'H' */
-.f-icon-inbox:before { content: '\e802'; } /* '' */
-.f-icon-off:before { content: '\53'; } /* 'S' */
-.f-icon-resize-full-alt:before { content: '\e801'; } /* '' */
-.f-icon-menu:before { content: '\6d'; } /* 'm' */
-.f-icon-desktop:before { content: '\4d'; } /* 'M' */
-.f-icon-angle-circled-left:before { content: '\4c'; } /* 'L' */
-.f-icon-angle-circled-right:before { content: '\52'; } /* 'R' */
-.f-icon-youtube-play:before { content: '\e805'; } /* '' */
-.f-icon-tumblr-1:before { content: '\e806'; } /* '' */
-.f-icon-tumblr-squared:before { content: '\e807'; } /* '' */
-.f-icon-headphones:before { content: '\e804'; } /* '' */
-.f-icon-target:before { content: '\e809'; } /* '' */
-.f-icon-folder-open:before { content: '\e800'; } /* '' */
-.f-icon-calendar:before { content: '\e803'; } /* '' */
-.f-icon-book:before { content: '\e808'; } /* '' */
-.f-icon-book-open:before { content: '\42'; } /* 'B' */
+.f-icon-email { content: '\65'; } /* 'e' */
+.f-icon-itunes { content: '\75'; } /* 'u' */
+.f-icon-pinboard { content: '\6b'; } /* 'k' */
+.f-icon-tumblr { content: '\54'; } /* 'T' */
+.f-icon-home { content: '\48'; } /* 'H' */
+.f-icon-inbox { content: '\e802'; } /* '' */
+.f-icon-off { content: '\53'; } /* 'S' */
+.f-icon-resize-full-alt { content: '\e801'; } /* '' */
+.f-icon-menu { content: '\6d'; } /* 'm' */
+.f-icon-desktop { content: '\4d'; } /* 'M' */
+.f-icon-angle-circled-left { content: '\4c'; } /* 'L' */
+.f-icon-angle-circled-right { content: '\52'; } /* 'R' */
+.f-icon-youtube-play { content: '\e805'; } /* '' */
+.f-icon-tumblr-1 { content: '\e806'; } /* '' */
+.f-icon-tumblr-squared { content: '\e807'; } /* '' */
+.f-icon-headphones { content: '\e804'; } /* '' */
+.f-icon-target { content: '\e809'; } /* '' */
+.f-icon-folder-open { content: '\e800'; } /* '' */
+.f-icon-calendar { content: '\e803'; } /* '' */
+.f-icon-book { content: '\e808'; } /* '' */
+.f-icon-book-open { content: '\42'; } /* 'B' */
