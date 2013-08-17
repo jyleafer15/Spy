@@ -50,24 +50,24 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-email:before { content: '\65'; } /* 'e' */
-.icon-itunes:before { content: '\75'; } /* 'u' */
-.icon-pinboard:before { content: '\6b'; } /* 'k' */
-.icon-tumblr:before { content: '\54'; } /* 'T' */
-.icon-home:before { content: '\48'; } /* 'H' */
-.icon-inbox:before { content: '\e802'; } /* '' */
-.icon-off:before { content: '\53'; } /* 'S' */
-.icon-resize-full-alt:before { content: '\e801'; } /* '' */
-.icon-menu:before { content: '\6d'; } /* 'm' */
-.icon-desktop:before { content: '\4d'; } /* 'M' */
-.icon-angle-circled-left:before { content: '\4c'; } /* 'L' */
-.icon-angle-circled-right:before { content: '\52'; } /* 'R' */
-.icon-youtube-play:before { content: '\e805'; } /* '' */
-.icon-tumblr-1:before { content: '\e806'; } /* '' */
-.icon-tumblr-squared:before { content: '\e807'; } /* '' */
-.icon-headphones:before { content: '\e804'; } /* '' */
-.icon-target:before { content: '\e809'; } /* '' */
-.icon-folder-open:before { content: '\e800'; } /* '' */
-.icon-calendar:before { content: '\e803'; } /* '' */
-.icon-book:before { content: '\e808'; } /* '' */
-.icon-book-open:before { content: '\42'; } /* 'B' */
+.f-icon-email:before { content: '\65'; } /* 'e' */
+.f-icon-itunes:before { content: '\75'; } /* 'u' */
+.f-icon-pinboard:before { content: '\6b'; } /* 'k' */
+.f-icon-tumblr:before { content: '\54'; } /* 'T' */
+.f-icon-home:before { content: '\48'; } /* 'H' */
+.f-icon-inbox:before { content: '\e802'; } /* '' */
+.f-icon-off:before { content: '\53'; } /* 'S' */
+.f-icon-resize-full-alt:before { content: '\e801'; } /* '' */
+.f-icon-menu:before { content: '\6d'; } /* 'm' */
+.f-icon-desktop:before { content: '\4d'; } /* 'M' */
+.f-icon-angle-circled-left:before { content: '\4c'; } /* 'L' */
+.f-icon-angle-circled-right:before { content: '\52'; } /* 'R' */
+.f-icon-youtube-play:before { content: '\e805'; } /* '' */
+.f-icon-tumblr-1:before { content: '\e806'; } /* '' */
+.f-icon-tumblr-squared:before { content: '\e807'; } /* '' */
+.f-icon-headphones:before { content: '\e804'; } /* '' */
+.f-icon-target:before { content: '\e809'; } /* '' */
+.f-icon-folder-open:before { content: '\e800'; } /* '' */
+.f-icon-calendar:before { content: '\e803'; } /* '' */
+.f-icon-book:before { content: '\e808'; } /* '' */
+.f-icon-book-open:before { content: '\42'; } /* 'B' */
