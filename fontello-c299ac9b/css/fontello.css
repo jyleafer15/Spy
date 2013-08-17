@@ -19,7 +19,7 @@
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+ [class^="f-icon-"]:before, [class*=" f-icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -49,6 +49,7 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
+
 .f-icon-email { content: '\65'; } /* 'e' */
 .f-icon-itunes { content: '\75'; } /* 'u' */
 .f-icon-pinboard { content: '\6b'; } /* 'k' */
