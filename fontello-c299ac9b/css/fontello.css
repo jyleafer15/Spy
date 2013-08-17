@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'fontello';
-  src: url('https://github.com/jyleafer15/Spy/blob/master/fontello-c299ac9b/font/fontello.eot?raw=true?41574556');
-  src: url('https://github.com/jyleafer15/Spy/blob/master/fontello-c299ac9b/font/fontello.eot?raw=true?41574556#iefix') format('embedded-opentype'),
-       url('https://github.com/jyleafer15/Spy/blob/master/fontello-c299ac9b/font/fontello.woff?raw=true?41574556') format('woff'),
-       url('https://github.com/jyleafer15/Spy/blob/master/fontello-c299ac9b/font/fontello.ttf?raw=true?41574556') format('truetype'),
+  src: url(http://static.tumblr.com/hw7jydn/JNdmroc6y/fontello.eot?41574556');
+  src: url('http://static.tumblr.com/hw7jydn/JNdmroc6y/fontello.eot?raw=true?41574556#iefix') format('embedded-opentype'),
+       url('http://static.tumblr.com/hw7jydn/nWumroc8y/fontello.woff?41574556') format('woff'),
+       url('http://static.tumblr.com/hw7jydn/msymroc8c/fontello.ttf?41574556') format('truetype'),
        url('https://raw.github.com/jyleafer15/Spy/master/fontello-c299ac9b/font/fontello.svg?41574556#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
