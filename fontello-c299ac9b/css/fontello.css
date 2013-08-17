@@ -19,36 +19,6 @@
 }
 */
  
- [class^="f-icon-"]:before, [class*=" f-icon-"]:before {
-  font-family: "fontello";
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
- 
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: .2em;
-  text-align: center;
-  /* opacity: .8; */
- 
-  /* For safety - reset parent styles, that can break glyph codes*/
-  font-variant: normal;
-  text-transform: none;
-     
-  /* fix buttons height, for twitter bootstrap */
-  line-height: 1em;
- 
-  /* Animation center compensation - margins should be symmetric */
-  /* remove if not needed */
-  margin-left: .2em;
- 
-  /* you can be more comfortable with increased icons size */
-  /* font-size: 120%; */
- 
-  /* Uncomment for 3D effect */
-  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
-}
 .cbp-vimenu {
 	position: fixed;
 	overflow: hidden;
@@ -58,7 +28,7 @@
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background: #f7f7f7;
+	border-left:thick solid rgba(0, 136, 204,0.6);
 }
 
 .cbp-vimenu li a {
@@ -68,25 +38,26 @@
 	width: 5em;
 	line-height: 5em;
 	text-align: center;
-	color: #999;
+	opacity:0.6;
+	color: #FFF;
 	position: relative;
 	border-bottom: 1px solid rgba(0,0,0,0.05);
+	background: rgb(0, 136, 204);
 	-webkit-transition: background 0.1s ease-in-out;
 	-moz-transition: background 0.1s ease-in-out;
 	transition: background 0.1s ease-in-out;
 }
 
 .cbp-vimenu li a:hover,
-.cbp-vimenu li:first-child a{
-	background: #47a3da;
+.cbp-vimenu li:first-child a,
+.cbp-vimenu li.cbp-vicurrent a {
+	opacity:1;
+	background: rgb(0, 136, 204);
 	color: #fff;
 }
 
 /* class for current item */
-.cbp-vimenu li.cbp-vicurrent a {
-	background: #fff;
-	color: #47a3da;
-}
+
 
 .cbp-vimenu li a:before {
 	font-family: 'fontello';
